@@ -2,13 +2,13 @@
 A template for SWE apprentices to record and reflection their learnings over the course of their 2nd language learning in SWE2.0 Bootcamp Weeks 9 and 10
 ---
    - Learner: {Apprentice Name Here}
-   - Date: {Scope of project - this should match the dates of week 9 and 10 of bootcamp}
+   - Date: {Scope of project - this should match the dates of weeks 9-10 of bootcamp}
 
 ### Resources:
    - [Learning Plan](https://swe-learning-plans.netlify.app/)
 
 ## Overall Objectives for learning:
-By the end of the two weeks. I will have developed my skill in:
+By the end of the first two weeks. I will have developed my skill in:
 
 [//]: # (The example\(s\) below should be specifics of the content that you plan on covering over the course of the 2 week learning period.  Additionally, they should be based directly on feedback from your manager.)
    - *Example:* Python programming fundamentals
@@ -32,17 +32,16 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 
 [//]: # (Complete this outline to show what you plan on covering each day - remember however, that this will likely change depending on your pprogress.  That is fine - just update it when you need to!)
 
-- Thursday 08/31:
-- Friday 09/01:
-- Monday 09/04:
-- Tuesday 09/05:
-- Wednesday 09/06:
-- Thursday 09/07:
-- Friday 09/08:
-- Monday 09/11:
-- Tuesday 09/12:
-- Wednesday 09/13:
-- Thursday 09/14:
+- Monday [date]:
+- Tuesday [date]:
+- Wednesday [date]:
+- Thursday [date]:
+- Friday [date]:
+- Monday [date]:
+- Tuesday [date]:
+- Wednesday [date]:
+- Thursday [date]:
+- Friday [date]:
   
 --- 
 ## Daily Record:
